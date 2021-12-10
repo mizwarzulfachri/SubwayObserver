@@ -10,4 +10,6 @@ menggunakan decorator pattern dan observer pattern. Decorator pattern
 digunakan untuk menu dan perhitungan harga. Observer pattern digunakan
 untuk melihat apa yang dipesan dari customer. 
 
-Link Youtube : 
+Link Youtube : https://youtu.be/H6UsT0-HXVw
+
+Link GitHub : https://github.com/mizwarzulfachri/SubwayObserver
